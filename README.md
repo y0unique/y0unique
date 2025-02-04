@@ -1,4 +1,5 @@
 ## Hi there 👋
+ - 📚 I'm currently studying Laravel and ReactJS
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![XAMPP](https://img.shields.io/badge/xampp-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
